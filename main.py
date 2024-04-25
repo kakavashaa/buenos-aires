@@ -97,4 +97,4 @@ async def handle_dzbb(request: Request):
 
 # This section is for development purposes only. Remove before deployment.
 if __name__ == "__main__":
-  	uvicorn.run("scrape_dwls:app", host="0.0.0.0", port=port, reload=True, workers=1)
+  	uvicorn.run("main:app", host="0.0.0.0", port=port, reload=True, workers=1)
