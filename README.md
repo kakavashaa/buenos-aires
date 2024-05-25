@@ -1,2 +1,2 @@
-# rgmanetwork-ythls
-A scraper for RGMA (Radio GMA) Network's YouTube radio livestreams.
+# buenos-aires
+A stream scraper for such streaming service architecture.
